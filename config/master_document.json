@@ -1,0 +1,66 @@
+{
+  "company": {
+    "name": "KamandaLabs",
+    "description": "Uganda's first automated environmental-compliance platform",
+    "industry": "Environmental Technology / GreenTech",
+    "stage": "Early Stage / MVP",
+    "location": "Uganda",
+    "website": "https://kamandalabs.me",
+    "demo_url": "https://nema.kamandalabs.me"
+  },
+  "founder": {
+    "name": "Kamanda Collins",
+    "title": "Founder",
+    "email": "kamandacollins004@gmail.com",
+    "phone": "+256 771 594 776",
+    "background": "Final-year Petroleum and Mineral Geoscience student at Nkumba University",
+    "linkedin": null
+  },
+  "financial": {
+    "current_revenue": "No revenue currently",
+    "funding_amount_requested": "$7,500",
+    "funding_type": "Non-dilutive",
+    "use_of_funds": [
+      "Complete cloud and deployment infrastructure",
+      "Pay for NEMA legal review and formal environmental validation",
+      "Host user onboarding workshops",
+      "Cover basic tech operations (internet, computer maintenance)",
+      "Convert pilot users into paid subscriptions by Q4 2025"
+    ]
+  },
+  "traction": {
+    "key_metrics": [
+      "1 highly engaged consulting lead",
+      "Multiple outreach responses from environmental consultant network",
+      "Tools deployed and active at nema.kamandalabs.me",
+      "Uganda Clays accepted pilot letter and project proposal",
+      "Rwenzori Green and NEMA expressed interest in advising"
+    ],
+    "timeline": {
+      "Jun 2024": "Beta tool live at nema.kamandalabs.me",
+      "Jul 2024": "Streamlined UI + demo video",
+      "Jul 2024": "6 consultant replies, 1 highly engaged lead",
+      "Jul 2024": "Uganda Clays accepted pilot",
+      "Jul 2024": "Rwenzori Green & NEMA advisory support"
+    }
+  },
+  "problem_solution": {
+    "problem_statement": "ESIA wetland mapping delays averaging 21-28 days, with 34 mining/infrastructure projects stalled yearly in Uganda",
+    "solution_description": "Automated environmental-compliance platform that slashes ESIA preparation time from 4 weeks to 3 days",
+    "unique_advantage": [
+      "Founder-Builder-User: Geoscientist, developer, and early tester",
+      "Offline-friendly tech built for Ugandan connectivity realities",
+      "No competitors offering auto-generated Word+PNG+Markdown reports",
+      "Tied to national needs: NEMA compliance, extractives growth"
+    ]
+  },
+  "executive_summary": "KamandaLabs is Uganda's first automated environmental-compliance platform, built by Kamanda Collins — a final-year Petroleum and Mineral Geoscience student at Nkumba University — to slash ESIA preparation time from 4 weeks to 3 days. While we currently have no revenue, we have strong traction with 1 highly engaged consulting lead, multiple outreach responses, and tools already deployed. We are seeking $7,500 in non-dilutive funding.",
+  "roadmap_6_months": {
+    "Month 1": "Final pilot client - Full field use, paid test",
+    "Month 2": "NEMA lawyer engagement - Legal compliance report",
+    "Month 3": "Feature upgrade (alerts, UI) - Integrated WhatsApp/SMS reminders",
+    "Month 4": "Kenya & Rwanda outreach - NGOs onboarded (2)",
+    "Month 5": "Video & referral campaign - 15 new signups",
+    "Month 6": "First MRR ($250+) - 2-3 recurring paid clients"
+  }
+}
